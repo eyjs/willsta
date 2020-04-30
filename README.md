@@ -1,6 +1,6 @@
-#4/1 ~ 4/24까지 진행된 Spring FrameWork를 이용한 MVC-MODEL2 패턴의 SNS 웹사이트
+Spring FrameWork를 이용한 MVC-MODEL2 패턴의 SNS 웹사이트
 ==
-
+** 일자: 4/1 ~ 4/24 **
 **Spring WebSocket을 이용한 채팅기능 담당**
 
 
