@@ -19,4 +19,4 @@ Spring FrameWork를 이용한 MVC-MODEL2 패턴의 SNS 웹사이트
 
 - [aws서버 구축 및 배포](http://13.125.189.179:8080/willstagram/sign_in)
 
-![ERD설계도](C:\Users\wnstn\Desktop\이미지\willstagram_최종ERD_4.27.png "WillstagramERD")
+![ERD설계도](C:\Users\wnstn\Desktop\이미지\willstagram.jpg "WillstagramERD")
