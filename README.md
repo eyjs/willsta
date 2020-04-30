@@ -22,3 +22,6 @@ Spring FrameWork를 이용한 MVC-MODEL2 패턴의 SNS 웹사이트
 - 테스트 계정 : ljs / 1
 
 ![ERD설계도](C:\willstagram.jpg "WillstagramERD")
+
+
+**기능 추가 예정 : 로그인한 유저 아이디 출력 ( WebSocketHander에서 Map형식으로 정보 보관중), 채팅 상대방 Online/ Offline 유무**
